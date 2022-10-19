@@ -1,9 +1,18 @@
 .sendForm {
-
+    position: relative;
+    margin: auto 70px;
 }
 
 .textarea {
-
+    background: #F5F7FB;
+    box-shadow: 0 5px 20px rgba(29, 33, 38, 0.03), 0 1px 2px rgba(29, 33, 38, 0.1);
+    border-radius: 20px;
+    width: 976px;
+    height: 40px;
+    left: 70px;
+    top: 408px;
+    padding: 12px 839px 11px 24px;
+    margin-right: 44px;
 }
 
 .button {
