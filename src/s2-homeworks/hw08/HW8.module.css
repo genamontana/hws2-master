@@ -13,6 +13,10 @@
 }
 
 .buttonsContainer {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: 12px;
+    max-width: 606px;
 }
 
 .container {
