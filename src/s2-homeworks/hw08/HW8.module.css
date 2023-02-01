@@ -1,13 +1,11 @@
 .item {
-    display: flex;
-    justify-content: space-between;
-    width: 580px;
-    border-bottom: 1px solid #E5E5E5;
+    height: 36px;
+    width: 606px;
 
 }
 
 .item:last-of-type {
-    border-bottom: none;
+
     margin-bottom: 0;
 }
 
@@ -25,6 +23,8 @@
 .container {
     width: 606px;
     margin-top: 33px;
+
+
 }
 
 .thead {
@@ -44,10 +44,10 @@
     margin-bottom: 16px;
     margin-top: 15px;
     margin-left: 20px;
-    width: 500px;
+    width: 606px;
+    border-bottom: 1px solid #E5E5E5;
 }
 
 .ageCol {
-
-
+    border-bottom: 1px solid #E5E5E5;
 }
