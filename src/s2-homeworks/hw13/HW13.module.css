@@ -1,7 +1,13 @@
 .buttonsContainer {
+    display: flex;
+    justify-content: space-between;
+    max-width: 650px;
 }
 
 .responseContainer {
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
 }
 
 .imageContainer {
